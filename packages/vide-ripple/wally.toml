@@ -1,5 +1,5 @@
 [package]
-name = "littensy/vide-ripple"
+name = "fomecrazy/vide-ripple"
 version = "0.10.2"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
@@ -14,4 +14,4 @@ exclude = [
 
 [dependencies]
 Ripple = "littensy/ripple@^0.10"
-Vide = "centau/vide@^0.4"
+Vide = "fomecrazy/vide@^0.1"
